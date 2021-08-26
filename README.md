@@ -1,4 +1,4 @@
 # Bible-Q
 A biblical trivia quiz app.
 
-<img src = "http://g.recordit.co/1ofogK4m7y.gif">
+<img src = "http://g.recordit.co/xuiT2zdZyn.gif">
